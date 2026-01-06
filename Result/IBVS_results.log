@@ -1,0 +1,7 @@
+Scenario 1:
+Success list: [True, True, True, False, True, True, True, True, True, True]
+Success rate: 0.9
+
+Scenario 2:
+Success list: [True, True, False, True, False, False]
+Success rate: 0.5
